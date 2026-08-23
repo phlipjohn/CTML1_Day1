@@ -1,0 +1,15 @@
+2026-08-22 09:00:10 INFO user=trainee src_ip=192.168.56.20 action=login status=success
+2026-08-22 09:02:33 INFO user=trainee src_ip=192.168.56.20 action=file_open file=/home/trainee/readme.txt status=success
+2026-08-22 09:10:01 INFO user=analyst src_ip=192.168.56.21 action=login status=success
+2026-08-22 09:15:03 WARN user=admin src_ip=192.168.56.50 action=login status=failed
+2026-08-22 09:15:07 WARN user=admin src_ip=192.168.56.50 action=login status=failed
+2026-08-22 09:15:11 WARN user=admin src_ip=192.168.56.50 action=login status=failed
+2026-08-22 09:15:15 WARN user=admin src_ip=192.168.56.50 action=login status=failed
+2026-08-22 09:15:19 WARN user=admin src_ip=192.168.56.50 action=login status=failed
+2026-08-22 09:17:44 WARN user=trainee src_ip=192.168.56.33 action=login status=failed
+2026-08-22 09:17:51 INFO user=trainee src_ip=192.168.56.33 action=login status=success
+2026-08-22 09:22:09 INFO user=analyst src_ip=192.168.56.21 action=file_open file=/var/log/auth.log status=success
+2026-08-22 09:42:22 WARN user=test src_ip=10.10.10.25 action=login status=failed
+2026-08-22 09:42:26 WARN user=test src_ip=10.10.10.25 action=login status=failed
+2026-08-22 09:42:30 WARN user=test src_ip=10.10.10.25 action=login status=failed
+2026-08-22 09:50:00 INFO user=trainee src_ip=192.168.56.20 action=logout status=success

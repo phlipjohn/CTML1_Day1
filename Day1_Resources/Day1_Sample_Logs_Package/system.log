@@ -1,0 +1,11 @@
+Aug 22 08:50:00 ubuntu-lab systemd[1]: Started Network Manager.
+Aug 22 08:50:04 ubuntu-lab systemd[1]: Started OpenSSH server daemon.
+Aug 22 08:52:11 ubuntu-lab NetworkManager[702]: eth0: connected to VirtualBox Host-Only Network
+Aug 22 09:00:01 ubuntu-lab CRON[1198]: (root) CMD (run-parts /etc/cron.hourly)
+Aug 22 09:05:18 ubuntu-lab systemd[1]: Starting Daily apt download activities...
+Aug 22 09:05:22 ubuntu-lab systemd[1]: Finished Daily apt download activities.
+Aug 22 09:20:10 ubuntu-lab kernel: eth0: link up, 1000 Mbps, full-duplex
+Aug 22 09:25:33 ubuntu-lab systemd[1]: Started Session 3 of user trainee.
+Aug 22 09:35:44 ubuntu-lab systemd[1]: ssh.service: Deactivated successfully.
+Aug 22 09:35:46 ubuntu-lab systemd[1]: Started OpenSSH server daemon.
+Aug 22 09:48:12 ubuntu-lab systemd[1]: Started Cleanup of Temporary Directories.

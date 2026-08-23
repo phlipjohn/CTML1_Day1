@@ -1,0 +1,7 @@
+# Day 1 Basic Indicator List
+192.168.56.50
+10.10.10.25
+admin
+test
+Failed password
+status=failed

@@ -1,0 +1,16 @@
+Aug 22 08:55:01 ubuntu-lab sshd[1180]: Server listening on 0.0.0.0 port 22.
+Aug 22 09:01:12 ubuntu-lab sshd[1210]: Accepted password for trainee from 192.168.56.20 port 50122 ssh2
+Aug 22 09:01:12 ubuntu-lab sshd[1210]: pam_unix(sshd:session): session opened for user trainee(uid=1000)
+Aug 22 09:08:41 ubuntu-lab sudo: trainee : TTY=pts/0 ; PWD=/home/trainee ; USER=root ; COMMAND=/usr/bin/apt update
+Aug 22 09:15:03 ubuntu-lab sshd[1302]: Failed password for invalid user admin from 192.168.56.50 port 51201 ssh2
+Aug 22 09:15:07 ubuntu-lab sshd[1304]: Failed password for invalid user admin from 192.168.56.50 port 51205 ssh2
+Aug 22 09:15:11 ubuntu-lab sshd[1306]: Failed password for invalid user admin from 192.168.56.50 port 51209 ssh2
+Aug 22 09:15:15 ubuntu-lab sshd[1308]: Failed password for invalid user admin from 192.168.56.50 port 51213 ssh2
+Aug 22 09:15:19 ubuntu-lab sshd[1310]: Failed password for invalid user admin from 192.168.56.50 port 51217 ssh2
+Aug 22 09:17:44 ubuntu-lab sshd[1320]: Failed password for trainee from 192.168.56.33 port 51420 ssh2
+Aug 22 09:17:51 ubuntu-lab sshd[1322]: Accepted password for trainee from 192.168.56.33 port 51424 ssh2
+Aug 22 09:17:51 ubuntu-lab sshd[1322]: pam_unix(sshd:session): session opened for user trainee(uid=1000)
+Aug 22 09:30:10 ubuntu-lab sudo: trainee : TTY=pts/1 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/less /var/log/auth.log
+Aug 22 09:42:22 ubuntu-lab sshd[1401]: Failed password for invalid user test from 10.10.10.25 port 53001 ssh2
+Aug 22 09:42:26 ubuntu-lab sshd[1403]: Failed password for invalid user test from 10.10.10.25 port 53005 ssh2
+Aug 22 09:42:30 ubuntu-lab sshd[1405]: Failed password for invalid user test from 10.10.10.25 port 53009 ssh2
